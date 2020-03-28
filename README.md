@@ -1,5 +1,13 @@
 # vue-demo
 
+## Environment
+
+### node
+download from [here](https://nodejs.org/en/) or use nvm to install multiple node version
+
+### git 
+download from [here](https://git-scm.com/) and be familiar with simple operations(commit, branch, pull request). you can practice with this demo.
+
 ## Project setup
 ```
 npm install
