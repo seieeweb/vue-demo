@@ -8,7 +8,7 @@ download from [here](https://nodejs.org/en/) or use nvm to install multiple node
 ### git 
 download from [here](https://git-scm.com/) and be familiar with simple operations(commit, branch, pull request). you can practice with this demo.
 
-## Project setup
+## Project setup (在运行这一步的时候不知道为什么必须把原来的package-lock.json删掉才行)
 ```
 npm install
 ```
